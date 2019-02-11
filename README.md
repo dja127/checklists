@@ -1,2 +1,3 @@
 # checklists
-Checklists
+
+- [cogency](cogency.md)
