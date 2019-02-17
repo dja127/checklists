@@ -1,6 +1,7 @@
 ## Problem Solving Checklist
 
 __Characterization:__
+*Do you really understand the problem?*
 
 |         Name|                   Question|    Assessment| Improvements|
 |:------------|:--------------------------|-------------:|------------:|
@@ -15,20 +16,31 @@ __Characterization:__
 
 
 __Analysis:__
+*Are you an expert in the problem?*
 
 |         Name|                   Question|    Assessment| Improvements|
 |:------------|:--------------------------|-------------:|------------:|
-|             |                           |              |             |
+| Facts       | What are the key facts relating to the problem   |              |             |
+| Reduction   | How is the problem broken up into simpler parts? |              |             |
+| Theory      | What general theories are applicable to the parts? |              |             |
 
 
 __Design:__
+*Did you explore all the options?*
 
 |         Name|                   Question|    Assessment| Improvements|
 |:------------|:--------------------------|-------------:|------------:|
-|             |                           |              |             |
+| Precision   | Are the design options precise? |              |             |
+| Possibility | Are the design options possible? |              |             |
+| Motivated   | Are the design options well-motaivated? |              |             |
+| Planned     | Are the design options part of a plan? |              |             |
+| Results     | Are the consequences of a design option correct? |              |             |
+| Plural      | Have more that one design option been explored? |              |             |
+| Rejections  | Have all rejected design options been justified? |              |             |
 
 
 __Evaluation:__
+*Are you prepared to stake your reputation on the solution?*
 
 |         Name|                   Question|    Assessment| Improvements|
 |:------------|:--------------------------|-------------:|------------:|
